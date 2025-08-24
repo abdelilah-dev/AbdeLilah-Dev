@@ -1,14 +1,16 @@
 [![](https://visitcount.itsvg.in/api?id=AbdeLilah-Dev&icon=1&color=0)](https://visitcount.itsvg.in)
-## Hi 👋, I'am Abdelilah Missa **`</>`**
- - Front-End Developer
+<div align="center">
+  <h1>Hi 👋, I'am Abdelilah Missa </></h1>
+  <ul style="list-style: none;">
+    <li>IT Student</li>
+    <li>Front-End Developer</li>
+  </ul>
+</div>
 
 <h3 align="center">🌐 Socials</h3>
 <p align="center">
   <a href="https://linkedin.com/in/abdelilah-missa">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" height="40"/>
-  </a>
-  <a href="https://x.com/abde_lilah_dev">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=x&logoColor=white&style=for-the-badge" alt="Twitter" height="40"/>
   </a>
   <a href="https://www.codewars.com/users/abdelilah_dev">
     <img src="https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=white&style=for-the-badge" alt="Codewars" height="40"/>
